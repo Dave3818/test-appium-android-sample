@@ -1,0 +1,6 @@
+tests/AndroidSample.java
+ tests.AndroidSample
+tests/StartAppiumServer.java
+ tests.StartAppiumServer
+tests/BaseCLass.java
+ tests.BaseCLass
